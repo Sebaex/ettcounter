@@ -1,0 +1,46 @@
+@font-face{
+    font-family: "Bokutachi";
+    src: url("../static/Boku.ttf");
+}
+body{
+    background: black;
+}
+
+#main{
+    font-family: Bokutachi;
+    font-size: 64px;
+    width: 400px;
+    height: 800px;
+    opacity: 0;
+    transition: 500ms;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+#judges{
+    text-align: left;
+}
+#numbers{
+    text-align:right;
+    color: white;
+}
+#marv{
+    color: #99ccff;
+}
+#perf{
+    color: #f2cb30;
+}
+#great{
+    color: #14cc8f;
+}
+#good{
+    color: #1ab2ff;
+}
+#bad{
+    color: #ff1ab3;
+}
+#missed{
+    color: #cc2929;
+}
