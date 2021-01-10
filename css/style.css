@@ -2,9 +2,6 @@
     font-family: "Bokutachi";
     src: url("../static/Boku.ttf");
 }
-body{
-    background: black;
-}
 
 #main{
     font-family: Bokutachi;
@@ -13,6 +10,7 @@ body{
     height: 800px;
     opacity: 0;
     transition: 500ms;
+    
 }
 
 .column {
@@ -43,4 +41,7 @@ body{
 }
 #missed{
     color: #cc2929;
+}
+#ur{
+    color: #66ccff;
 }
