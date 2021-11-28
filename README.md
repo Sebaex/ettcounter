@@ -3,7 +3,7 @@ Simple Etterna-like judge counter for Gosumemory, working with all available gam
 
 # How To Use
 * Download zip
-* Extract folder on "static" folder from Gosumemory
+* Extract folder on "static" folder from [Gosumemory](https://github.com/l3lackShark/gosumemory)
 
 <details>
 <summary>Preview</summary>
